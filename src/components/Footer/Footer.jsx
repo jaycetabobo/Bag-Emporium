@@ -39,8 +39,9 @@ const Footer = () => {
           <Col md={3} sm={5} className="box">
             <h2>Contact Us</h2>
             <ul>
-              <li>Carmen, Cagayan de Oro, Philippines</li>
+              <li>Tubod, lanao del norte</li>
               <li>Email: kegu.dayot.coc@phinmaed.com</li>
+              <li>Phone: 09552935470</li>
             </ul>
           </Col>
         </Row>

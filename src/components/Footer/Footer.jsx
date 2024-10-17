@@ -39,9 +39,8 @@ const Footer = () => {
           <Col md={3} sm={5} className="box">
             <h2>Contact Us</h2>
             <ul>
-              <li>123 Bag Street, New York, NY 10001, United States</li>
+              <li>Carmen, Cagayan de Oro Philippines</li>
               <li>Email: support@bagemporium.com</li>
-              <li>Phone: +1 800 123 4567</li>
             </ul>
           </Col>
         </Row>
